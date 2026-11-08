@@ -35,19 +35,6 @@ Aurum-Restaurant/
 │   └── reservation.png
 └── README.md
 
-Screenshots
-
-![Aurum Homepage"](image.png)
-
-Food Menu
-!["Aurum Menu"](<Screenshot (417).png>)
-
-Price List
-!["Aurum Price List" ](<Screenshot (419).png>)
-
-Reservation Page
-!["Aurum Reservation"](<Screenshot (420).png>)
-
 What I Learned
 
 Through this project, I practised:
