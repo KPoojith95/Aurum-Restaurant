@@ -1,0 +1,209 @@
+/* CSS Document */
+
+/* Aurum Restaurant Website */
+
+body {
+    background-color: #fffaf0;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background-color:#18352a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    color: gold;
+    font-size: 40px;
+    transition: letter-spacing 0.5s;
+}
+
+header h1:hover {
+    letter-spacing: 8px;
+}
+
+.tagline {
+    color: white;
+    font-size: 14px;
+}
+
+/* Navigation */
+nav {
+    background-color: #345c42;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+    transition: color 0.5s;
+}
+
+nav a:hover {
+    color: gold;
+}
+
+/* Main Content */
+.content {
+    width: 85%;
+    margin: 25px auto;
+}
+
+h2 {
+    color: #806020;
+    text-align: center;
+}
+
+h3 {
+    color:  #18352a;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Home Image */
+.hero {
+    text-align: center;
+}
+
+.hero img {
+    width: 100%;
+    height: 350px;
+}
+
+.hero-text {
+    background-color:  #18352a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.hero-text h2 {
+    color: gold;
+}
+
+/* Links and Buttons */
+.btn {
+    background-color: #806020;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.5s;
+}
+
+.btn:hover {
+    background-color:  #18352a;
+}
+
+/* Food Cards */
+/* Food Cards */
+.food-container {
+    text-align: center;
+}
+
+.food-card {
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #cccccc;
+}
+
+.food-card img {
+    width: 100%;
+    height: 160px;
+}
+
+.food-card h3 {
+    color: #806020;
+}
+
+/* Lists */
+.features {
+    background-color: #f0e6d2;
+    padding: 20px 40px;
+    line-height: 2;
+}
+
+.menu-list {
+    background-color: #f0e6d2;
+    padding: 20px 40px;
+    line-height: 2;
+}
+
+/* Price Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th {
+    background-color:  #18352a;
+    color: white;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 12px;
+    text-align: center;
+}
+
+/* Reservation Form */
+form {
+    width: 65%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0e6d2;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+button {
+    background-color:  #18352a;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+button:hover {
+    background-color: #806020;
+}
+
+/* Footer */
+footer {
+    background-color:  #18352a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer h3 {
+    color: gold;
+}
+
+/* Center Text */
+.center {
+    text-align: center;
+}
