@@ -36,9 +36,13 @@ Aurum-Restaurant/
 ├── screenshots/
 
 │   ├── homepage.png
+
 │   ├── menu.png
+
 │   ├── price-list.png
+
 │   └── reservation.png
+
 └── README.md
 
 What I Learned
