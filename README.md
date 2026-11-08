@@ -22,13 +22,19 @@ Technologies Used
 Project Structure
 
 Aurum-Restaurant/
-│
+
 ├── home.html
+
 ├── order.html
+
 ├── price.html
+
 ├── rev.html
+
 ├── style.css
+
 ├── screenshots/
+
 │   ├── homepage.png
 │   ├── menu.png
 │   ├── price-list.png
